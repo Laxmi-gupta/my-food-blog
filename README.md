@@ -27,12 +27,6 @@ To set up this project locally:
     node index.js
 5. Open your browser and visit http://localhost:8080 to see the website.
 
-## Screenshots
-
-![Homepage](https://raw.githubusercontent.com/user-attachments/assets/48225bde-4c7c-43f0-99ab-4beeb05102a8)
-![Homepage2](https://raw.githubusercontent.com/user-attachments/assets/6c2b593a-efc3-4fe6-bf2c-7dbca126b392)
-![Create Post](https://raw.githubusercontent.com/user-attachments/assets/5287a398-ca4a-4abb-82e5-f34f7d3436a4)
-![Read Post](https://raw.githubusercontent.com/user-attachments/assets/21989ef2-e278-481b-9abc-0f96df47624e)
 
 
 
